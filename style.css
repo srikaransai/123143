@@ -1,0 +1,31 @@
+h1{
+    margin:20px auto;
+
+
+}
+body{
+    text-align:center;
+    background-color:aquamarine;
+
+}
+input{
+    margin:10px;
+    width:250px;
+
+}
+#submit{
+    margin-top:20px;
+    font-size:20px;
+    font-weight:bold;
+    color:rgb(30, 0, 255);
+
+
+}
+#sort{
+    margin-top:20px;
+    font-size:20px;
+    font-weight:bold;
+    color:rgb(30, 0, 255);
+    display:none;
+    
+}
